@@ -11,17 +11,12 @@ public class test {
         User aa =new User("user");
         if (aa != null) {
 
-            String aaaa = "aaaa";
-            System.out.println(aaaa);
+            String aaaa = "abbbb";
+            System.out.println( aaaa);
             System.out.println(aaaa);
             System.out.println(aaaa);
 
         }
-
-
-
-
-
     }
 
 }
