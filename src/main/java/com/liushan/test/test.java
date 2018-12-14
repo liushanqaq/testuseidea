@@ -9,6 +9,7 @@ public class test {
         System.out.println("aa");
         System.out.println("aa");
         User aa =new User("user");
+
         if (aa != null) {
 
             String aaaa = "abbbb";
